@@ -4,10 +4,13 @@ When running script:
   Do not "run all cells" ! : 
   BUG: For whatever reason, cells 2-4 need to be ran twice in order to clean the data properly. 
 
+  I used CAHOOTS data from 2021-2023. This is not publicly available data, and is not included in this repository. 
 Weather Variables Used: 
 
 https://www.ncei.noaa.gov/pub/data/uscrn/products/hourly02/
-   
+
+The Corvallis station was the one I used, as it is closest to Eugene. 
+
 1   T_HR_AVG  [7 chars]  cols 66 -- 72
               Average air temperature, in degrees C, for the entire hour. See Note 
           F.
