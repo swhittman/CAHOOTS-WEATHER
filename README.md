@@ -1,9 +1,5 @@
 # CAHOOTS-WEATHER
 
-When running script:
-  Do not "run all cells" ! : 
-  BUG: For whatever reason, cells 2-4 need to be ran twice in order to clean the data properly. 
-
   I used CAHOOTS data from 2021-2023. This is not publicly available data, and is not included in this repository. 
 Weather Variables Used: 
 
